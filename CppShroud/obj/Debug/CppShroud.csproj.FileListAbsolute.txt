@@ -1,0 +1,10 @@
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\bin\Debug\CppShroud.exe.config
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\bin\Debug\CppShroud.exe
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\bin\Debug\CppShroud.pdb
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\obj\Debug\CppShroud.csproj.AssemblyReference.cache
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\obj\Debug\CppShroud.Form1.resources
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\obj\Debug\CppShroud.Properties.Resources.resources
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\obj\Debug\CppShroud.csproj.GenerateResource.cache
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\obj\Debug\CppShroud.csproj.CoreCompileInputs.cache
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\obj\Debug\CppShroud.exe
+C:\Users\nick yang2\source\repos\CppShroud\CppShroud\obj\Debug\CppShroud.pdb
